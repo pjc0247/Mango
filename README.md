@@ -7,7 +7,19 @@ Specification
 =====
  - 이벤트 핸들러 방식의 이벤트 전달
  - 계층적 부모, 자식 관계 구조 ( 하이라키 )
- 
+
+Window
+=====
+  - Panel
+  - Button
+  - Label
+  - EditBox
+  - ListBox
+  - ImageBox
+  - VScrollBar
+  - HScrollBar
+  - Timer
+
 Author
 =====
  - pjc0247@naver.com
